@@ -21,6 +21,11 @@ int isLeapYear(int year) {
 в
 в
 
+а
+
+
+г
+
 
 void task5_1_1() {
 	printf("=== «јƒј„ј 5.1.1: ¬исокосные годы ===\n");
